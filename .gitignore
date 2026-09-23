@@ -1,0 +1,17 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+*.user
+artifacts/
+data/
+fixtures.json
+reference-labels.json
+aggregate.json
+aggregate.csv
+requests.json
+requests.csv
+*.nupkg
+*.snupkg
+.env
+.env.*

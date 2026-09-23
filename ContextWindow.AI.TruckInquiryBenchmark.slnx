@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ContextWindow.AI.TruckInquiryBenchmark/ContextWindow.AI.TruckInquiryBenchmark.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ContextWindow.AI.TruckInquiryBenchmark.Tests/ContextWindow.AI.TruckInquiryBenchmark.Tests.csproj" />
+  </Folder>
+</Solution>
